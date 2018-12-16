@@ -1,0 +1,12 @@
+Mar 12 12:27:00 server3 named[32172]: lame server resolving 'jakarta5.wasantara.net.id' (in 'wasantara.net.id'?): 202.159.65.171#53 
+Mar 12 12:27:03 server3 named[32173]: lame server resolving 'jakarta5.wasantara.net.id' (in 'wasantara.net.id'?): 202.159.65.171#53
+<31>1 2017-11-24T05:14:15.000008-07:00 192.0.0.1 mypid 8888 - - Test syslogparser
+<31>1 2017-11-24T05:14:15.000008-07:00 192.0.0.1 mypid 8888 - - Test syslogparser
+<31>1 2017-11-24T05:14:15.000008-07:00 192.0.0.1 mypid 8888 - - Test syslogparser
+<31>1 2017-11-24T05:14:15.000008-07:00 192.0.0.1 mypid 8888 - - Test syslogparser
+<30>0 2018-11-23T11:42:24.058798-08:00 ip-11-225-5-131 romasearch-zinx - - [203461df-fcaa-41ef-b004-e8b tag="some1" tag="222323232"][tag="sssrrrrrrr"] "GET /api/search2/catalog/search?division=Beauty&includeFlash=0&includePersistent=1&sort=most_popular HTTP/1.1" 200 151195 "-" "RomaWalkIPH/5.0.2.180612.151338 IOS/11.4.1 MODEL/3,9enohPi" "94.103.215.6, 2.20.248.133, 64.95.188.16, 23.212.108.14, 184.51.101.124, 10.224.10.159"
+<31>1 2017-11-24T05:14:15.000008-07:00 192.0.0.1 mypid 8888 - - Test syslogparser
+<31>1 2017-11-24T05:14:15.000008-07:00 192.0.0.1 mypid 8888 - - Test syslogparser
+<31>1 2017-11-24T05:14:15.000008-07:00 192.0.0.1 mypid 8888 - - Test syslogparser
+<31>1 2017-11-24T05:14:15.000008-07:00 192.0.0.1 mypid 8888 - - Test syslogparser
+<30>0 2018-11-23T11:42:24.058798-08:00 ip-11-225-5-131 romasearch-zinx - - [203461df-fcaa-41ef-b004-e8b tag="some1" tag="222323232"][tag="sssrrrrrrr"] "GET /api/search2/catalog/search?division=Beauty&includeFlash=0&includePersistent=1&sort=most_popular HTTP/1.1" 200 151195 "-" "RomaWalkIPH/5.0.2.180612.151338 IOS/11.4.1 MODEL/3,9enohPi" "94.103.215.6, 2.20.248.133, 64.95.188.16, 23.212.108.14, 184.51.101.124, 10.224.10.159"
